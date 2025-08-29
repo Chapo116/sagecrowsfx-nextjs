@@ -1,0 +1,9 @@
+index.html
+about.html
+contact.html
+assets/
+.github/workflows/
+README.md
+package.json
+vercel.json
+commitlint.config.js
